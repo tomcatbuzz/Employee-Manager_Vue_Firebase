@@ -5,6 +5,10 @@
 ## Build Setup
 
 ``` bash
+# create a Cloud Firestore at Firebase Console
+refer to the firebaseConfigExample.js file (add firebase to your web app)
+add the contents of the var config -> to firebaseConfigExample.js -> rename to firebaseConfig.js
+
 # install dependencies
 npm install
 
